@@ -1,6 +1,6 @@
 function imprimir(nome: string): string {
     return `olá ${nome}`;
-}
+} 
 
 const imprimriMaiorIdade = (idade: number): boolean => {
     if (idade < 18) {
